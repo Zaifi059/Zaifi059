@@ -29,15 +29,7 @@ Conducted workshops and webinars to share my knowledge and expertise in Android 
 I'm always excited to connect with fellow developers, designers, and anyone interested in the world of Android UI/UX and Flutter.
 Feel free to reach out to me on LinkedIn or GitHub. Let's collaborate and create amazing things together!
 
-<a href="https://www.x.com/huzaifa_059" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/huzaifa_059?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Skills
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
 
 ### Socials
 
