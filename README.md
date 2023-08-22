@@ -1,5 +1,6 @@
  # Hi, I'm Huzaifa 
-![OIP](https://github.com/Zaifi059/Zaifi059/assets/125743722/bccb6459-ca7a-4cde-b353-33455ee65184)
+![358017562_258200776852401_6655506144492171842_n](https://github.com/Zaifi059/Zaifi059/assets/125743722/8876457d-da44-4a6c-a932-be07c6bc0cfe)
+
 
 
 👨‍💻 Android UI/UX Designer | Flutter Expert | Full-Stack Developer
