@@ -1,6 +1,6 @@
  # Hi, I'm Huzaifa 
  
-![Github](https://github.com/Zaifi059/Zaifi059/assets/125743722/cc33424d-d4a4-4fc4-8ce7-db4d6792af8c)
+ ![WhatsApp Image 2023-08-22 at 7 29 14 PM](https://github.com/Zaifi059/Zaifi059/assets/125743722/1548cdd4-9773-437e-a83a-64b35da2af39)
 
 
 👨‍💻 Android UI/UX Designer | Flutter Expert | Full-Stack Developer
